@@ -1,3 +1,25 @@
 body {
   background-color: #c9b5ab;
 }
+h1, nav ol {
+  font-family: 'PT Sans', sans-serif;
+}
+main, aside, body {
+  font-family: 'PT Serif', serif;
+}
+
+nav ol li a {
+  color: #8f2440;
+}
+
+ol li {
+ list-style-type: none;
+ }
+
+a {
+     text-decoration: none;
+ }
+
+ a:hover {
+   color: #3f1622;
+ }
