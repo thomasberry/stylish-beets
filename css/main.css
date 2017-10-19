@@ -12,8 +12,9 @@ nav ol li a {
   color: #8f2440;
 }
 
-ol li {
+nav ol li {
  list-style-type: none;
+ font-size: 1.5rem;
  }
 
 a {
@@ -23,3 +24,33 @@ a {
  a:hover {
    color: #3f1622;
  }
+
+h1, h2 {
+  color: #3f1622;
+}
+
+footer {
+  font-size: 0.8rem;
+}
+
+blockquote {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.figcap {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+aside {
+  font-size: 0.8rem;
+}
+
+dl {
+  line-height: 1.5;
+}
+
+cite {
+  font-size: 0.8rem;
+}
